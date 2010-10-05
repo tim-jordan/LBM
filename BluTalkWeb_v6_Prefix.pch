@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'BluTalkWeb_v6' target in the 'BluTalkWeb_v6' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
